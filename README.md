@@ -1,8 +1,14 @@
 # simple-input-toggle
 A simple input check with toggle functionality using Angular8 and fontAwesome 
 
+### FontAwesomse setup:
+We are going to need the next dependencies:
 
-
+```html
+    "@fortawesome/angular-fontawesome": "^0.3.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.5.0",
+```
 --
 
 #### { 'Leo Lanese',
