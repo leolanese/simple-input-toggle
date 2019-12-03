@@ -1,5 +1,5 @@
 # simple-input-toggle
-A simple input check with toggle functionality using Angular8 and fontAwesome 
+A very simple, but very practicle, input check with toggle functionality using Angular8 and fontAwesome 
 
 ### FontAwesomse setup:
 We are going to need the next dependencies:
